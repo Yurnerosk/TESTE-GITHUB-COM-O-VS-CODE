@@ -8,3 +8,5 @@ for i in range(8):
 #ra di cal
 
 #EDITE DIS FILE
+
+I = 24
